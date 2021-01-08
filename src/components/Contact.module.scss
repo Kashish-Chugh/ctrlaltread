@@ -1,0 +1,46 @@
+.message {
+  margin-top: 10px;
+  color: #4f647d;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.boxStyle {
+  align-items: "center";
+  border-style: "solid";
+  border-color: "#dedede";
+  border-width: "1px";
+  padding: 10px;
+
+  &:hover {
+    box-shadow: 0 0 10px 0 #dedede;
+  }
+}
+.input {
+  border-style: none;
+  background-color: #fefefe;
+  border-color: #4f647d;
+  border-bottom: 1px solid #4f647d;
+  padding: 10px;
+  outline: none;
+}
+
+.textArea {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-style: none;
+  background-color: #fefefe;
+  border-color: #4f647d;
+  border-bottom: 1px solid #4f647d;
+  padding: 10px;
+  resize: none;
+  outline: none;
+}
+
+button {
+  background-color: #4f647d;
+  color: #fff;
+  border-radius: 15px;
+  padding: 5px;
+  outline: none;
+}
