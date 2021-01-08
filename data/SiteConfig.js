@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: "Alt", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Alt", // Alternative site title for SEO.
   siteLogo: "/public/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "ctrlaltread.tech", // Domain of your website without pathPrefix.
+  siteUrl: "https://ctrlaltread.tech/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
     "A Gatsby Markdown Blog stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.

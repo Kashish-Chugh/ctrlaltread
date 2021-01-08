@@ -1,4 +1,4 @@
 User-agent: *
 
 
-sitemap: https://ctrlaltread.tech
+sitemap: https://ctrlaltread.tech/
