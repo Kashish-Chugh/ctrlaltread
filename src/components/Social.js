@@ -29,7 +29,7 @@ export default function Social() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../public/logos/twitter.png")}
+            src={require("../../content/images/twitter.png")}
             className={styles.icon}
             alt="twitter"
           />
@@ -41,7 +41,7 @@ export default function Social() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../public/logos/instagram.png")}
+            src={require("../../content/images/instagram.png")}
             className={styles.icon}
             alt="twitter"
           />
@@ -53,7 +53,7 @@ export default function Social() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../public/logos/medium.png")}
+            src={require("../../content/images/medium.png")}
             className={styles.icon}
             alt="twitter"
           />
@@ -65,7 +65,7 @@ export default function Social() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../public/logos/github.png")}
+            src={require("../../content/images/github.png")}
             className={styles.icon}
             alt="twitter"
           />
@@ -77,7 +77,7 @@ export default function Social() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../public/logos/linkedin.png")}
+            src={require("../../content/images/linkedin.png")}
             className={styles.icon}
             alt="twitter"
           />
