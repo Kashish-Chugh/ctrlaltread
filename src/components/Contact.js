@@ -74,7 +74,7 @@ function Contact() {
             rel="noopener noreferrer"
           >
             <img
-              src={require("../../public/logos/email.png")}
+              src={require("../../content/images/email.png")}
               style={{ width: "5rem", alignSelf: "center" }}
               alt="emaail"
             />
