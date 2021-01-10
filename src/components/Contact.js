@@ -13,43 +13,42 @@ function Contact() {
       </p>
       <div className={styles.boxStyle}>
         <form
-          target="/abc.com"
-          method="post"
+          action="https://formspree.io/f/xgeprlon"
+          method="POST"
           style={{
             flexDirection: "column",
             display: "flex",
-
-            marginRight: "20%",
-            marginLeft: "20%",
+            marginRight: "15%",
+            marginLeft: "15%",
           }}
         >
           <label className={styles.message}>What can I call you?</label>
           <input
             className={styles.input}
             title="name"
+            required
+            style={{ textTransform: "capitalize" }}
             placeholder="Name"
+            name="name"
             type="name"
           />
           <label className={styles.message}>What is your email id?</label>
           <input
             className={styles.input}
             title="name"
+            name="email"
+            required
             placeholder="Email ID"
             type="email"
           />
-          <label className={styles.message}>
-            Can I also get your mobile number?
-          </label>
-          <input
-            className={styles.input}
-            title="name"
-            placeholder="Mobile"
-            type="phone"
-          />
+
           <textarea
             className={styles.textArea}
             rows="3"
-            placeholder="Tell me what are you upto"
+            placeholder="Tell me what are you upto."
+            name="msg"
+            required
+            onInvalid="please send"
           />
           <button className={styles.button} type="submit">
             Send
