@@ -9,7 +9,7 @@ const config = {
     "A Gatsby Markdown Blog stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  googleAnalyticsID: "G-4KNMVFMWG6", // GA tracking ID.
+  googleAnalyticsID: "G-JZNG6BWRN3", // GA tracking ID.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "Kashish Chugh", // Username to display in the author segment.
