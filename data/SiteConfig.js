@@ -1,12 +1,12 @@
 const config = {
   siteTitle: "Ctrl Alt Read", // Site title.
-  siteTitleShort: "Alt", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Alt", // Alternative site title for SEO.
-  siteLogo: "/public/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteTitleShort: "CtrlAltRead", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Kashish Chugh", // Alternative site title for SEO.
+  siteLogo: "/content/images/avatar.png", // Logo used for SEO and manifest.
   siteUrl: "https://ctrlaltread.tech/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
-    "A Gatsby Markdown Blog stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.
+    "Personal blog by Kashish Chugh.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "410194166968024", // FB Application ID for using app insights
   googleAnalyticsID: "UA-186979689-1", // GA tracking ID.
@@ -17,9 +17,9 @@ const config = {
   userTwitter: "kashish_chugh", // Optionally renders "Follow Me" in the Bio segment.
   userGitHub: "Kashish-Chugh", // Optionally renders "Follow Me" in the Bio segment.
   userLocation: "New Delhi, India", // User location to display in the author segment.
-  userAvatar: "/content/images/avtarr.jpg", // User avatar to display in the author segment.
+  userAvatar: "/content/images/avatar.png", // User avatar to display in the author segment.
   userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+    "A young and enthusiast person, currently working as a Software Developer. I love watching football and my favorite club is Chelsea.", // User description to display in the author segment.
   copyright: "Kashish Chugh © 2021. All rights reserved.", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "red", // Used for setting manifest background color.
