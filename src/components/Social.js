@@ -23,6 +23,43 @@ export default function Social() {
         }}
       >
         <a
+          href="https://www.linkedin.com/in/kashishchugh12"
+          className={styles.href}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={require("../../content/images/linkedin.png")}
+            className={styles.icon}
+            alt="linkedin"
+          />
+        </a>
+        
+        <a
+          href="https://github.com/Kashish-Chugh"
+          className={styles.href}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={require("../../content/images/github.png")}
+            className={styles.icon}
+            alt="github"
+          />
+        </a>
+        <a
+          href="https://kashishchugh.medium.com/"
+          className={styles.href}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={require("../../content/images/medium.png")}
+            className={styles.icon}
+            alt="medium"
+          />
+        </a>
+        <a
           href="https://twitter.com/kashish_chugh"
           className={styles.href}
           target="_blank"
@@ -43,43 +80,7 @@ export default function Social() {
           <img
             src={require("../../content/images/instagram.png")}
             className={styles.icon}
-            alt="twitter"
-          />
-        </a>
-        <a
-          href="https://kashishchugh.medium.com/"
-          className={styles.href}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={require("../../content/images/medium.png")}
-            className={styles.icon}
-            alt="twitter"
-          />
-        </a>
-        <a
-          href="https://github.com/Kashish-Chugh"
-          className={styles.href}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={require("../../content/images/github.png")}
-            className={styles.icon}
-            alt="twitter"
-          />
-        </a>
-        <a
-          href="https://www.linkedin.com/in/kashishchugh12"
-          className={styles.href}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={require("../../content/images/linkedin.png")}
-            className={styles.icon}
-            alt="twitter"
+            alt="instagram"
           />
         </a>
       </div>

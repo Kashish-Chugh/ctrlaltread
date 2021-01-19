@@ -48,7 +48,7 @@ const Footer = () => (
             height: "60px",
             width: "217px",
             marginTop: "50px",
-            marginLeft: "20px",
+            marginLeft: "20%",
           }}
         />
       </a>
