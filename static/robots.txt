@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: */tags/
+Disallow: */categories/
 
-
-sitemap: https://ctrlaltread.tech/
+sitemap: https://ctrlaltread.tech/sitemap.xml
