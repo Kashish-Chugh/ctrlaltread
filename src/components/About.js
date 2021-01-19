@@ -22,9 +22,7 @@ const About = () => (
     >
       <h1>Kashish Chugh</h1>
       <p>
-        I'm Kashish Chugh, a Software Developer from India. I am really
-        passionate about ..., ...,.... I love to write about different things I
-        learn in my everyday life and share my experience with the world.
+        I'm Kashish Chugh, a Software Developer from India. I am a software developer from India. I work as a Mobile OS Expert/Programmer at Aspirify Enterprises Pvt. Ltd. I am highly enthusiastic about programming. I have worked as an Android Developer and React Native Developer previously. I created this blog to share my thoughts, experience and learning with the world.
       </p>
       <h4
         style={{
