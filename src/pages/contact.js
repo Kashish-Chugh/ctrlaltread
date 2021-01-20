@@ -7,7 +7,7 @@ import Contact from "../components/Contact";
 const ContactPage = () => (
   <Layout>
     <main>
-      <Helmet title={`Contact | ${config.siteTitle}`} />
+      <Helmet title={`Contact | ${config.siteTitle} | Kashish Chugh`} />
       <Contact />
     </main>
   </Layout>

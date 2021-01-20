@@ -7,7 +7,7 @@ import config from '../../data/SiteConfig'
 const AboutPage = () => (
   <Layout>
     <main>
-      <Helmet title={`About | ${config.siteTitle}`} />
+      <Helmet title={`About | ${config.siteTitle} | Kashish Chugh`} />
       <About />
     </main>
   </Layout>

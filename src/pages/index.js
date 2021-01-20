@@ -9,7 +9,7 @@ import config from '../../data/SiteConfig'
 const Index = ({ data }) => (
   <Layout>
     <main>
-      <Helmet title={config.siteTitle} />
+      <Helmet title={`${config.siteTitle  }: A personal blog by Kashish Chugh`} />
       <SEO />
       <PostListing postEdges={data.allMarkdownRemark.edges} />
     </main>
