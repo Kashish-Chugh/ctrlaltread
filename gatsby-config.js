@@ -91,9 +91,9 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "static/logos/logo-1024.png",
+            src: "/static/logos/favicon.ico",
             sizes: "48x48",
-            type: "image/png",
+            type: "image/ico",
           },
           {
             src: "static/logos/logo-1024.png",
