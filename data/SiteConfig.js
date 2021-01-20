@@ -1,8 +1,8 @@
 const config = {
   siteTitle: "Ctrl Alt Read", // Site title.
   siteTitleShort: "CtrlAltRead", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Kashish Chugh", // Alternative site title for SEO.
-  siteLogo: "/content/images/avatar.png", // Logo used for SEO and manifest.
+  siteTitleAlt: "Ctrl Alt Read Kashish Chugh", // Alternative site title for SEO.
+  siteLogo: "/static/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://ctrlaltread.tech/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
