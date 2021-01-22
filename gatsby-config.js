@@ -91,12 +91,12 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "logos/logo-1024.png",
+            src: "/logos/logo-1024.png",
             sizes: "48x48",
             type: "image/png",
           },
           {
-            src: "logos/logo-1024.png",
+            src: "/logos/logo-1024.png",
             sizes: "1024x1024",
             type: "image/png",
           },
