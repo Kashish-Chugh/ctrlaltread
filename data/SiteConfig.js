@@ -6,7 +6,7 @@ const config = {
   siteUrl: "https://ctrlaltread.tech/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
-    "Personal blog by Kashish Chugh.", // Website description used for RSS feeds/meta description tag.
+    "Ctrl Alt Read : A Personal blog by Kashish Chugh.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "410194166968024", // FB Application ID for using app insights
   googleAnalyticsID: "UA-186979689-1", // GA tracking ID.
