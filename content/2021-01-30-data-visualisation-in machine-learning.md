@@ -16,7 +16,7 @@ tags:
 
 Nowadays, datasets comprise a huge amount of information. We need data visualization to represent the patterns and relationship in data to analyze it.
 
-![Data visualisation](https://miro.medium.com/max/1050/0*nmYFRcaN0HxAtK-x)
+![Data visualisation](images/visual1.jpg)
 
 Given data can be one of the following types:
 

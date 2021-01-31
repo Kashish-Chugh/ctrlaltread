@@ -13,7 +13,7 @@ tags:
     - data mining
 ---
 
-![Data Preprocessing](https://miro.medium.com/max/1050/0*hVVeK-vWPivDH1wv.jpg)
+![Data Preprocessing](images/data1.jpg)
 
 Data preprocessing is the primary step in Machine Learning process. It is often neglected but it is an important step. Raw data is highly prone to noise, missing data and unreliable data. Data pre-processing includes cleaning, normalization, transformation, feature extraction and selection, etc. The quality of data affects the outcome of the algorithm.
 
