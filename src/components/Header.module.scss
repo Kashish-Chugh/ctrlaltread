@@ -8,12 +8,12 @@ header {
   -webkit-backdrop-filter: blur(7px);
   backdrop-filter: blur(7px);
   z-index: 9;
-  padding-left: 10%;
+  padding-left: 8%;
   margin-top: 5px;
   border-bottom-width: 0.02px;
   border-bottom-color: #eee;
   border-bottom-style: solid;
-  padding-right: 10%;
+  padding-right: 8%;
   height: 100px;
 
   a {
@@ -53,6 +53,12 @@ header {
   }
 }
 
+.heading {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+  
+}
+
 .main-nav {
   display: flex;
   list-style: none;
@@ -72,7 +78,7 @@ header {
     font-size: 1.3rem;
 
     & + li {
-      margin-left: 1.5rem;
+      margin-left: 1rem;
     }
   }
 }
