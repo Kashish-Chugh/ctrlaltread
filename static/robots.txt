@@ -1,7 +1,3 @@
 User-agent: *
 
 sitemap: https://ctrlaltread.tech/sitemap.xml
-sitemap: https://ctrlaltread.tech/sitemap.xml
-sitemap: https://ctrlaltread.tech/sitemap.xml
-sitemap: https://ctrlaltread.tech/sitemap.xml
-sitemap: https://ctrlaltread.tech/sitemap.xml
