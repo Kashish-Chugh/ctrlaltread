@@ -4,106 +4,132 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://ctrlaltread.tech/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/about/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/contact/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/decision-tree-regression-in-machine-learning/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/linear-regression-in-machine-learning/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/data-visualization-in-machine-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/data-preprocessing-in-machine-learning-and-data-science/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/type-of-machine-learning-techniques/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/welcome/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/machine-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://ctrlaltread.tech/tags/data-visualization/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <loc>https://ctrlaltread.tech/tags/decision-tree/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://ctrlaltread.tech/tags/matplotlib/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ctrlaltread.tech/tags/data-science/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <loc>https://ctrlaltread.tech/tags/regression/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/data-analysis/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/tags/data-science/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/tags/linear-regression/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/tags/data-visualization/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ctrlaltread.tech/tags/matplotlib/</loc>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/data-mining/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/data-preprocessing/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/supervised-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/unsupervised-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/reinforcement-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/semi-supervised-learning/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/introduction/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ctrlaltread.tech/tags/other/</loc>
-  <lastmod>2021-02-07T09:30:36+00:00</lastmod>
+  <lastmod>2021-02-14T10:40:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
